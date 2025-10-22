@@ -20,3 +20,4 @@ As técnicas e tecnologias utilizadas pra isso são:
 ## 🛠️ Abrir e rodar o projet
 
 # lista-de-compras-js
+# code-connect
